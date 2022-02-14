@@ -1,0 +1,6 @@
+code: imt-red
+titles:
+  en: Red app
+  it: Redo app
+group: free
+customUiPath: imt-red-widget.ftl
